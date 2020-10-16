@@ -1,4 +1,4 @@
-PLAYGROUND FOR BEGINNERS PRACTICE.
+`PLAYGROUND FOR BEGINNERS PRACTICE.`
 
 This is a friendly playground to practice "GITHUB" Commands.Steps are mentioned Below.you can add your name to our repo. you can practice as much as you want. Please dont add 
 a bad words.This is a friendly repo.Any one can add their names.
@@ -22,4 +22,4 @@ STEPS TO FOLLOW
    
      ex:   [your repo name](your github account link).
      
-5.Add your like shown above in the "Add your name Folder"     
+5.Add your name like shown above in the "Add your name Folder"     
