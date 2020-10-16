@@ -9,7 +9,7 @@ this repository. we hope this repo will help to you. Hope you guys have fun with
 
 <h4>1.Fork this repository.
 
-<h4>2.open README.md file.
+<h4>2.open `ADD YOUR NAME FOLDER` file.
 
 <h4>3.click PEN TOOL to "EDIT" the file.
 
