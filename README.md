@@ -9,22 +9,34 @@ this repository. we hope this repo will help to you. Hope you guys have fun with
 
 <h4>1.Fork this repository.
 
-<h4>2.open `ADD YOUR NAME FOLDER` file.
+<h4>2.open `README.md` file.
 
 <h4>3.click PEN TOOL to "EDIT" the file.
 
 <h4>4.Add your name like this.
 
-   <h4>.open square brackets '['  ']' and add your name in those brackets.
+   <h4>.open square brackets '['  ']' and add your GITHUB ACCOUNT name in those brackets.
    
-      ex:  [your repo name].
+      ex:  [your GITHUB ACCOUNT name].
       
    <h4>.open braces and add a link to your repo next to your name.
    
-     ex:   [your repo name](your github account link).
+     ex:   [your GITHUB name](your github account link).
      
-<h4>5.Add your name like shown above in the "Add your name Folder".
+<h4>5.Add your name like shown above in the "Add your name section".
    
  <h4>6.commit your changes with "Added my name".
  
 <h4> 7.Go to the Pull Request Section and make a PR(pull request)
+   
+   
+<h1>ADD YOUR NAME HERE.
+   
+ 1.(charan-web)[https://github.com/charan-web]  
+   
+   
+   
+   
+   
+   
+ 
