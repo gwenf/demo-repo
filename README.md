@@ -28,8 +28,10 @@ this repository. we hope this repo will help to you. Hope you guys have fun with
    
  <h4>6.commit your changes with "Added my name".
  
-<h4> 7.Go to the Pull Request Section and make a PR(pull request) 
+<h4> 7.Go to the Pull Request Section and make a PR(pull request). 
+   
 ...ADD YOUR NAME HERE...
+
  1.[charan-web](https://github.com/charan-web)  
    
    
