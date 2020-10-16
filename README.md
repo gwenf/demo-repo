@@ -14,14 +14,15 @@ this repository. we hope this repo will help to you. Hope you guys have fun with
 <h4>3.click PEN TOOL to "EDIT" the file.
 
 <h4>4.Add your name like this.
+   
+     <h4>.open braces '(' ')' and write your GITHUB ACCOUNT name
+     
+       ex:   (your GITHUB name)
 
-   <h4>.open square brackets '['  ']' and add your GITHUB ACCOUNT name in those brackets.
+   <h4>.open square brackes '['  ']' and add your GITHUB ACCOUNT "link" in those brackets.
    
-      ex:  [your GITHUB ACCOUNT name].
+      ex:  (your GITHUB ACCOUNT name)[your github account link].
       
-   <h4>.open braces and add a link to your repo next to your name.
-   
-     ex:   [your GITHUB name](your github account link).
      
 <h4>5.Add your name like shown above in the "Add your name section".
    
@@ -30,7 +31,7 @@ this repository. we hope this repo will help to you. Hope you guys have fun with
 <h4> 7.Go to the Pull Request Section and make a PR(pull request)
    
    
-<h1>...ADD YOUR NAME HERE...
+...ADD YOUR NAME HERE...
    
    
    
