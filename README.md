@@ -1,11 +1,8 @@
 # Demo
 
-Some description!
+Some text
 
-## Subheader
-
-Watch tutorial on YouTube.
-
-## Local Development
+# Local development
 
 1. Open index.html in your browser.
+2. and check it out
